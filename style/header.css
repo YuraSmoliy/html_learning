@@ -1,0 +1,26 @@
+
+
+
+
+
+.header__main{
+    text-align: center;
+    margin: auto;
+    max-width: 700px;
+}
+.header__red-dot{
+    color: rgb(245, 7,110);
+}
+.header__main-title{
+    font-size: 78px;
+}
+.header__main_button{
+    text-align: center;
+    width: 223px;
+    height: 85px;
+    margin-top: 50px;
+    background-color: rgb(245, 7,110);
+}
+.header__main_button :hover{
+    background-color: white;
+}
